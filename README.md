@@ -1,10 +1,5 @@
 # 🔵 API Tempo -  Desafio Microsoft Azure CLI
 
-## About
-Projeto desenvolvido como desafio da **Microsoft** para praticar **.NET 8**, **Docker** e **Azure CLI**.  
-API RESTful que fornece previsões de temperatura fictícias, pronta para deploy em contêineres e integração com serviços em nuvem.
-
----
 
 ## Tecnologias
 - **.NET 8 SDK / ASP.NET Core Web API**  
